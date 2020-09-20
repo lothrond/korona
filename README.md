@@ -8,7 +8,7 @@ Install with `make install`.
 
 Remove with `make remove`.
 
-Once installed, just run it through krunner (`alt+space`):
+Once installed, just run it through krunner: (`alt+space`)
 
 Lock widgets:
 
