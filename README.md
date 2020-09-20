@@ -1,12 +1,12 @@
 # korona
 
-Lock/Unlock widgets on KDE Plasma 5.18+. 
+Lock/Unlock widgets on KDE Plasma 5.18+
 
 ## Instuctions
 
-Install with `make install`.
+Install with: `make install`
 
-Remove with `make remove`.
+Remove with: `make remove`
 
 Once installed, just run it through krunner: (`alt+space`)
 
